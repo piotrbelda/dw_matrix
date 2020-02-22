@@ -1,6 +1,3 @@
 # Projekt transformacja, czyli Matrix - poznaj reguły gry
 
-Tutaj pojawią się 5 dni z projektu transformacji - część pierwsza
-- a
-- b
-- c
+Tutaj pojawią się pliki z projektu transformacji 5 dni - część pierwsza
